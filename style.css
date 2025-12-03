@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.lo{
+     background-color: #00a860;
+}
+.header{
+    width: 100%;
+    height: 500px;
+    color: white;
+    display: flex;
+    padding-top:10px;
+    justify-content: space-between;
+}
+
+.header h1{
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+.in select{
+    background-color: #BF0A30;
+    color: white;
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: -80px;
+
+
+}
+
+.header ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    margin-top: 15px;
+}
+
+.ino {
+    position: relative;
+
+}
+
+.ino input{
+    border-radius: 20px;
+    width: 140px;
+    height: 30px;
+    outline: none;
+    border: none;
+    padding-left:90px ;
+    margin-top: 15px;
+
+}
+
+.ino i{
+    position: absolute;
+    left: 10px;
+    color: grey;
+    top: 22px;
+     
+}
+
+.icons{
+    display: flex;
+    gap: 1px;
+    margin-right: 100px;
+    margin-top: 13px;
+    justify-items: center;
+}
+
+.icons i{
+    font-size: 30px;
+    color: white;
+    width: 60px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    
+}
+
+.hero{
+    display: flex;
+    gap: 10px;
+    margin-top: -250px;
+}
+
+.left{
+    margin-left: 50px;
+  
+}
+
+.left h6{
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.left h1{
+      color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.hu{
+       color: BF0A30;;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -10px;
+}
+.left p{
+        color: white;
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+.left button{
+    background-color: #BF0A30;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+   border: none;
+   margin-bottom: 5px;
+   margin-top: 5px ;
+}
+
+.right{
+    margin-left: 180px;
+    margin-top: -90px;
+}
